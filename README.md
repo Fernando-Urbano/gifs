@@ -16,5 +16,6 @@ To save the graphic:
 ```
 anim_save("Animation Name.gif", graphic_animated)
 ```
+More detailed information can be found inside the files!
 
 
